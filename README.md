@@ -1,5 +1,3 @@
-# explorer-challenge-02
- 
 <img src="/Images/Projeto02.png"/>
 
 > Status: Completed ✅
