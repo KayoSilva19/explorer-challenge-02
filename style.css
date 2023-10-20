@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+  width: 1000px;
+  margin: 65px auto 0;
+}
+
+.price {
+  display: inline;
+}
+
+.price span{
+  display: block;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 55px;
+}
+
+
+nav ul {
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  list-style: none;
+  gap: 48px;
+}
+
+ul li a {
+  color: #1F1534;
+  text-decoration: none;
+}
+ul li a:hover {
+  font-weight: bold;
+}
+
+h1, ul {
+  font-family: 'Mulish', sans-serif;
+}
