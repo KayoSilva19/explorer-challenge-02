@@ -14,4 +14,4 @@
 </table>
 
 ## Project link running:
-<a target="_blank" href="https://explorer-challenge-02-qyph6q6l5-kayosilva19.vercel.app">Project Link</a>
+<a target="_blank" href="https://explorer-challenge-02-qyph6q6l5-kayosilva19.vercel.app/">Project Link</a>
