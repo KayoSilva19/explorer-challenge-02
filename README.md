@@ -4,7 +4,7 @@
 
 > Status: Completed ✅
 
-### A landing page focused on promoting a furniture store
+### A landing page focused on high-performance training
 
 ## Technologies Used:
 
